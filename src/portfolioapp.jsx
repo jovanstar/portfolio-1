@@ -222,7 +222,7 @@ function ProjectsPage() {
           <span className="font-bold">BuiltByBit</span>
         </a>
         <a href="https://discord.gg/starstudiomc" target="_blank" rel="noreferrer" className="bg-white/6 p-3 rounded-xl border border-gray-500 hover:bg-white/12 transition-all flex items-center gap-3 justify-center">
-          <img src="https://avatars.githubusercontent.com/u/71634013?s=200&v=4" alt="Polymart" className="w-10 h-10 rounded-md" />
+          <img src="https://i.ibb.co/1fkwn1mT/Frame-7-1-removebg-preview.png" alt="StarStudios" className="w-10 h-10 rounded-md" />
           <span className="font-bold">My Studio</span>
         </a>
       </div>
