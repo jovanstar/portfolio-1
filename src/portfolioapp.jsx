@@ -233,7 +233,7 @@ function ProjectsPage() {
 function LinksPage() {
   const links = [
     { name: "GitHub", url: "https://github.com/jovanstardev", icon: "https://img.icons8.com/ios-glyphs/60/FFFFFF/github.png" },
-    { name: "Discord", url: "https://discord.com/starstudiomc", icon: "https://img.icons8.com/ios-glyphs/30/FFFFFF/discord-logo.png" },
+    { name: "Discord", url: "https://discord.gg/starstudiomc", icon: "https://img.icons8.com/ios-glyphs/30/FFFFFF/discord-logo.png" },
     { name: "Instagram", url: "https://instagram.com/jovanvuv3", icon: "https://img.icons8.com/ios/50/FFFFFF/instagram-new--v1.png" },
   ];
   return (
